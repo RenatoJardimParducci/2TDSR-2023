@@ -1,0 +1,1 @@
+# Guarde desta pasta somente códigos de programas de computador
